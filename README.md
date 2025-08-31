@@ -4,13 +4,13 @@ Welcome to the ultimate guide to open-source humanoid robotics! This repository 
 
 Each robot featured here includes a detailed summary, key features, and direct links to the official documentation, 3D models, and software repositories. Let's start building the future of robotics, one open-source project at a time.
 
-## About Me
+## [About Me](https://www.linkedin.com/in/zaid-mahboob/)
 
 I am currently pursuing a PhD in Computer Science with a specialization in robotics, focusing on robotic arms and humanoid robots. As part of my exploration, I have curated this list of open-source humanoid robots. I have personally built the **SO-101** robotic arm and am now moving towards applying imitation learning and other advanced techniques on it. Additionally, now I have ordered material for building my **first humanoid robots** by hands. 
 
 ---
 
-## [Featured Robots](https://www.linkedin.com/in/zaid-mahboob/)
+## Featured Robots
 
 ## 1. Berkeley Humanoid Lite Robot
 - **Creator**: The Hybrid Robotics Group at the University of California, Berkeley.
