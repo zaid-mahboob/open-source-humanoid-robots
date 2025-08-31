@@ -10,7 +10,7 @@ I am currently pursuing a PhD in Computer Science with a specialization in robot
 
 ---
 
-## Featured Robots
+## [Featured Robots](https://www.linkedin.com/in/zaid-mahboob/)
 
 ## 1. Berkeley Humanoid Lite Robot
 - **Creator**: The Hybrid Robotics Group at the University of California, Berkeley.
@@ -21,10 +21,6 @@ I am currently pursuing a PhD in Computer Science with a specialization in robot
   - **3D-Printed**: The entire robot, including its robust, modular gearboxes, is designed to be fabricated using a standard desktop 3D printer.
   - **Open-Source Stack**: Provides all necessary hardware designs, embedded code, and machine learning training frameworks.
   - **Minimal Sim-to-Real Gap**: Optimized for reinforcement learning, allowing for seamless transition from simulated training to real-world deployment.
-- **Files**:
-  - [Link to 3D printable models](https://berkeley-humanoid.org/downloads)
-  - [Link to assembly instructions](https://berkeley-humanoid.org/documentation)
-  - [Link to software repository](https://github.com/hybrid-robotics/berkeley-humanoid-lite)
 - **Documentation**:
   - [Official Website & Documentation](https://berkeley-humanoid.org/)
 - **Images**:
@@ -43,7 +39,6 @@ I am currently pursuing a PhD in Computer Science with a specialization in robot
   - **Educational Focus**: A popular platform in schools and universities for teaching robotics, control, and human-robot interaction.
 - **Files**:
   - [Link to 3D printable models](https://github.com/poppy-project/poppy-humanoid)
-  - [Link to assembly instructions](https://docs.poppy-project.org/en/getting-started/poppy-humanoid.html)
   - [Link to software repository](https://github.com/poppy-project/pypot)
 - **Documentation**:
   - [Official Documentation](https://docs.poppy-project.org/)
@@ -62,8 +57,6 @@ I am currently pursuing a PhD in Computer Science with a specialization in robot
   - **Extensive Community Support**: Backed by a massive, active community of makers who provide support, share tips, and showcase their unique builds.
   - **Integrated with MyRobotLab**: Leverages a powerful open-source framework for advanced features like voice recognition and object tracking.
 - **Files**:
-  - [Link to 3D printable models](http://inmoov.fr/inmoov-parts-list/)
-  - [Link to assembly instructions](http://inmoov.fr/inmoov-assembly-guide/)
   - [Link to software repository](https://github.com/MyRobotLab/inmoov)
 - **Documentation**:
   - [Official Website & Documentation](http://inmoov.fr/)
@@ -100,10 +93,6 @@ I am currently pursuing a PhD in Computer Science with a specialization in robot
   - **Ultra-Affordable**: One of the most cost-effective humanoid robot projects available, making it accessible to virtually anyone.
   - **Beginner-Friendly**: Uses a common Arduino-compatible microcontroller (ATmega328P), making it an excellent starting point for learning electronics and coding.
   - **Bluetooth Control**: Easily programmable and controllable via a Bluetooth connection, ideal for basic experimentation with movements and animations.
-- **Files**:
-  - [Link to 3D printable models](https://github.com/simonepri/roboprime/tree/master/3d_models)
-  - [Link to assembly instructions](https://github.com/simonepri/roboprime#getting-started)
-  - [Link to software repository](https://github.com/simonepri/roboprime)
 - **Documentation**:
   - [GitHub Repository](https://github.com/simonepri/roboprime)
 - **Images**:
@@ -113,7 +102,7 @@ I am currently pursuing a PhD in Computer Science with a specialization in robot
 
 ## 📌 **Acknowledgements**
 
-I acknowledge that ChatGPT was used for formatting and better presentation of the content. All the images and content shown on this page is copied from their original sources which are linked with each arm.
+I acknowledge that ChatGPT was used for formatting and better presentation of the content. All the images and content shown on this page is copied from their original sources which are linked with each humanoid.
 
 ---
 
